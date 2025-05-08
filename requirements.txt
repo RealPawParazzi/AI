@@ -1,0 +1,12 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+requests==2.31.0
+pydantic==2.3.0
+python-dotenv==1.0.0
+pillow==10.0.1
+boto3==1.28.54
+aiohttp==3.8.5
+aiofiles==23.2.1
+runwayml==2.1.9
+openai==1.65.4

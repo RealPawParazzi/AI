@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# 임시 파일 및 폴더
+temp/
+tmp/
+.DS_Store
+
+# 개발 환경 설정 파일
+.env
+.env.*
+!.env.example
+
+# IDE 및 편집기 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+.vim/
+*.sublime-*
+
+# 로그 파일
+*.log
+logs/
+
+# 개인 API 키 및 인증 정보
+*.pem
+*.key
+*.crt
+
+# Docker 
+.docker/
+docker-compose.override.yml
+
+# 데이터베이스
+*.db
+*.sqlite3
+
+# OS 생성 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
